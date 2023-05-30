@@ -1,0 +1,19 @@
+.diagram {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 300px;
+  }
+  
+  .entity {
+    padding: 10px;
+    margin: 10px;
+    background-color: lightgray;
+    border-radius: 5px;
+  }
+  
+  .relationship {
+    font-size: 20px;
+    margin: 10px;
+  }
+  
